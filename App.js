@@ -38,6 +38,7 @@ export default function App() {
       Alert.alert('Invalid Text');
     }
   };
+  //hi
 
   const getData = async () => {
     try {
